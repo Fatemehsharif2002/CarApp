@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "1958_BMW_507_3.3_Front 2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1958_BMW_507_3.3_Front 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1958_BMW_507_3.3_Front 3.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
